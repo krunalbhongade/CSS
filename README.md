@@ -9,8 +9,12 @@
 ![Screenshot (83)](https://user-images.githubusercontent.com/126875304/230953872-72c3a46b-5d60-4503-8619-d235198a8939.png)
 ![Screenshot (84)](https://user-images.githubusercontent.com/126875304/230953876-d9219b17-8e46-4f9b-84b5-82116a47bbfe.png)
 setting <hr> styles
+# External CSS
 ![WhatsApp Image 2023-04-12 at 10 52 24 PM](https://user-images.githubusercontent.com/126875304/231536798-d260dec3-c9a2-40e9-822a-684946c25a6f.jpeg)
+# Anatomy of syntax
 ![WhatsApp Image 2023-04-12 at 10 52 25 PM](https://user-images.githubusercontent.com/126875304/231537073-65870ff8-638a-4b9c-9715-c7f5354ebd65.jpeg)
 ![WhatsApp Image 2023-04-12 at 10 52 25 PM (1)](https://user-images.githubusercontent.com/126875304/231537655-acf324ac-be08-4031-82f0-2096d020c179.jpeg)
+# CSS Selectors
 ![WhatsApp Image 2023-04-12 at 10 52 25 PM (2)](https://user-images.githubusercontent.com/126875304/231537769-1761a9e0-81bc-43a5-bccc-79a04b0d9c50.jpeg)
+# Classes vs Ids
 ![WhatsApp Image 2023-04-12 at 10 52 24 PM (1)](https://user-images.githubusercontent.com/126875304/231537843-ad6b407a-24ce-4767-bc1a-d65b4a9c3349.jpeg)
