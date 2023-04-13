@@ -20,12 +20,28 @@ setting <hr> styles
 ![WhatsApp Image 2023-04-12 at 10 52 24 PM (1)](https://user-images.githubusercontent.com/126875304/231537843-ad6b407a-24ce-4767-bc1a-d65b4a9c3349.jpeg)
 # Intermediate CSS
 ![WhatsApp Image 2023-04-13 at 11 12 46 PM](https://user-images.githubusercontent.com/126875304/231842098-b572e01a-80d7-4e73-9271-e690c373c2e5.jpeg)
+# Try to make web-site like these
+![Screenshot (88)](https://user-images.githubusercontent.com/126875304/231843770-ccc91903-febf-45f0-84fb-91824d823e22.png)
+# Fav icons
 ![WhatsApp Image 2023-04-13 at 11 12 45 PM](https://user-images.githubusercontent.com/126875304/231842202-2c07c3d7-0177-40d6-b37d-bd2581c1150d.jpeg)
+# Fav icons page
+![Screenshot (87)](https://user-images.githubusercontent.com/126875304/231844235-0344eaff-2879-45e6-936a-8042fbf390d5.png)
+# Created my fav icon
+![Screenshot (89)](https://user-images.githubusercontent.com/126875304/231844436-9e3aa162-a18a-4c88-806c-d28f4733dbfa.png)
+# Box Model
 ![WhatsApp Image 2023-04-13 at 11 12 45 PM (2)](https://user-images.githubusercontent.com/126875304/231842248-65830e55-e689-4922-81ee-3616dbfc54b9.jpeg)
 ![WhatsApp Image 2023-04-13 at 11 12 45 PM (1)](https://user-images.githubusercontent.com/126875304/231842317-ac9c881d-4048-4d49-8baf-884b690b85e8.jpeg)
 ![WhatsApp Image 2023-04-13 at 11 12 44 PM](https://user-images.githubusercontent.com/126875304/231842370-242bc549-97c6-4bd4-96e3-28d570f542dd.jpeg)
+# Created my box model
+![Screenshot (91)](https://user-images.githubusercontent.com/126875304/231844871-55036951-484c-45d7-934c-22b97fe0a3cf.png)
+# Display property
 ![WhatsApp Image 2023-04-13 at 11 12 44 PM (2)](https://user-images.githubusercontent.com/126875304/231842400-9b722066-359e-421d-9758-7dd762308663.jpeg)
 ![WhatsApp Image 2023-04-13 at 11 12 44 PM (1)](https://user-images.githubusercontent.com/126875304/231842492-6b8f9867-e435-4dd8-8fe6-74288ef5cd06.jpeg)
 ![WhatsApp Image 2023-04-13 at 11 12 43 PM](https://user-images.githubusercontent.com/126875304/231842616-f0404af0-ebf5-4bb1-b1b0-cbb3de528369.jpeg)
 ![WhatsApp Image 2023-04-13 at 11 12 43 PM (1)](https://user-images.githubusercontent.com/126875304/231842699-52e48763-58be-401c-ace2-7868d96721ce.jpeg)
+# Different types of block elements
+![Screenshot (93)](https://user-images.githubusercontent.com/126875304/231845275-78815d44-b68f-453d-95ff-6cf2a556ddbf.png)
+# Little bit website done
+![Screenshot (92)](https://user-images.githubusercontent.com/126875304/231845506-6d4e333b-6964-42d2-ae92-cc4e392e001f.png)
+
 
