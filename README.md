@@ -43,5 +43,12 @@ setting <hr> styles
 ![Screenshot (93)](https://user-images.githubusercontent.com/126875304/231845275-78815d44-b68f-453d-95ff-6cf2a556ddbf.png)
 # Little bit website done
 ![Screenshot (92)](https://user-images.githubusercontent.com/126875304/231845506-6d4e333b-6964-42d2-ae92-cc4e392e001f.png)
+# CSS static & relative positioning
+![WhatsApp Image 2023-04-14 at 9 16 14 PM](https://user-images.githubusercontent.com/126875304/232092629-8a85994b-984a-464c-aa37-381e070ce9f8.jpeg)
+![WhatsApp Image 2023-04-14 at 9 16 14 PM (1)](https://user-images.githubusercontent.com/126875304/232092670-58821541-c1ba-4107-a668-3c568c025d06.jpeg)
+# Absolute Positioning
+![WhatsApp Image 2023-04-14 at 9 16 13 PM](https://user-images.githubusercontent.com/126875304/232092844-53f53e4b-bfab-4aa4-bd87-b0ef1d4d5726.jpeg)
+![WhatsApp Image 2023-04-14 at 9 16 13 PM (1)](https://user-images.githubusercontent.com/126875304/232092887-7d98d33a-bc46-4a73-92b6-f61885fdcae2.jpeg)
+
 
 
